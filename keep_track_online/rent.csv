@@ -1,0 +1,1041 @@
+Location,TimeFrame,DataFormat,Data,Fips
+New York City,2005,Dollars,1135.1306,3651000
+New York City,2006,Dollars,1139.01486,3651000
+New York City,2007,Dollars,1156.64094,3651000
+New York City,2008,Dollars,1164.09445,3651000
+New York City,2009,Dollars,1218.21202,3651000
+New York City,2010,Dollars,1240.25868,3651000
+New York City,2011,Dollars,1254.32181,3651000
+New York City,2012,Dollars,1266.01217,3651000
+New York City,2013,Dollars,1280.36847,3651000
+New York City,2014,Dollars,1302.96845,3651000
+New York City,2015,Dollars,1345.07978,3651000
+New York City,2016,Dollars,1370.69924,3651000
+New York City,2017,Dollars,1374.86477,3651000
+New York City,2018,Dollars,1428.18186,3651000
+New York City,2019,Dollars,1455.39917,3651000
+New York City,2021,Dollars,1385,3651000
+Manhattan,2005,Dollars,1304.16336,36061
+Manhattan,2006,Dollars,1337.68024,36061
+Manhattan,2007,Dollars,1358.8599,36061
+Manhattan,2008,Dollars,1378.56552,36061
+Manhattan,2009,Dollars,1508.2625,36061
+Manhattan,2010,Dollars,1467.19446,36061
+Manhattan,2011,Dollars,1539.87766,36061
+Manhattan,2012,Dollars,1574.9932,36061
+Manhattan,2013,Dollars,1610.41901,36061
+Manhattan,2014,Dollars,1641.0663,36061
+Manhattan,2015,Dollars,1709.67605,36061
+Manhattan,2016,Dollars,1760.26639,36061
+Manhattan,2017,Dollars,1657.89315,36061
+Manhattan,2018,Dollars,1787.09667,36061
+Manhattan,2019,Dollars,1764.34311,36061
+Manhattan,2021,Dollars,1789,36061
+Battery Park/Tribeca,2005,Dollars,2336.2252,101
+Battery Park/Tribeca,2006,Dollars,2239.62108,101
+Battery Park/Tribeca,2007,Dollars,2327.45008,101
+Battery Park/Tribeca,2008,Dollars,2325.70946,101
+Battery Park/Tribeca,2009,Dollars,2425.31572,101
+Battery Park/Tribeca,2010,Dollars,2427.1207,101
+Battery Park/Tribeca,2011,Dollars,2359.96577,101
+Battery Park/Tribeca,2012,Dollars,2314.46466,101
+Battery Park/Tribeca,2013,Dollars,2276.21061,101
+Battery Park/Tribeca,2014,Dollars,2246.49733,101
+Battery Park/Tribeca,2015,Dollars,2852.82559,101
+Battery Park/Tribeca,2016,Dollars,2712.54165,101
+Battery Park/Tribeca,2017,Dollars,2696.38958,101
+Battery Park/Tribeca,2018,Dollars,2743.13463,101
+Battery Park/Tribeca,2019,Dollars,2879.27345,101
+Battery Park/Tribeca,2021,Dollars,1246,101
+Greenwich Village,2005,Dollars,2336.2252,102
+Greenwich Village,2006,Dollars,2239.62108,102
+Greenwich Village,2007,Dollars,2327.45008,102
+Greenwich Village,2008,Dollars,2325.70946,102
+Greenwich Village,2009,Dollars,2425.31572,102
+Greenwich Village,2010,Dollars,2427.1207,102
+Greenwich Village,2011,Dollars,2359.96577,102
+Greenwich Village,2012,Dollars,2314.46466,102
+Greenwich Village,2013,Dollars,2276.21061,102
+Greenwich Village,2014,Dollars,2246.49733,102
+Greenwich Village,2015,Dollars,2852.82559,102
+Greenwich Village,2016,Dollars,2712.54165,102
+Greenwich Village,2017,Dollars,2696.38958,102
+Greenwich Village,2018,Dollars,2743.13463,102
+Greenwich Village,2019,Dollars,2879.27345,102
+Greenwich Village,2021,Dollars,1840,102
+Lower East Side,2005,Dollars,871.27457,103
+Lower East Side,2006,Dollars,948.29609,103
+Lower East Side,2007,Dollars,878.42886,103
+Lower East Side,2008,Dollars,887.63751,103
+Lower East Side,2009,Dollars,1013.3253,103
+Lower East Side,2010,Dollars,1060.65175,103
+Lower East Side,2011,Dollars,968.76595,103
+Lower East Side,2012,Dollars,1144.50278,103
+Lower East Side,2013,Dollars,989.01351,103
+Lower East Side,2014,Dollars,1067.08623,103
+Lower East Side,2015,Dollars,1109.4945,103
+Lower East Side,2016,Dollars,1082.13098,103
+Lower East Side,2017,Dollars,1127.75923,103
+Lower East Side,2018,Dollars,1156.85935,103
+Lower East Side,2019,Dollars,1024.55898,103
+Lower East Side,2021,Dollars,1123,103
+Chelsea/Clinton,2005,Dollars,1899.21366,104
+Chelsea/Clinton,2006,Dollars,1791.96175,104
+Chelsea/Clinton,2007,Dollars,1751.70565,104
+Chelsea/Clinton,2008,Dollars,1806.26796,104
+Chelsea/Clinton,2009,Dollars,2004.43396,104
+Chelsea/Clinton,2010,Dollars,1898.00839,104
+Chelsea/Clinton,2011,Dollars,2073.22993,104
+Chelsea/Clinton,2012,Dollars,2265.8609,104
+Chelsea/Clinton,2013,Dollars,2276.21061,104
+Chelsea/Clinton,2014,Dollars,2246.49733,104
+Chelsea/Clinton,2015,Dollars,2347.99998,104
+Chelsea/Clinton,2016,Dollars,2415.09437,104
+Chelsea/Clinton,2017,Dollars,2211.97563,104
+Chelsea/Clinton,2018,Dollars,2178.05744,104
+Chelsea/Clinton,2019,Dollars,2052.27046,104
+Chelsea/Clinton,2021,Dollars,1569,104
+Midtown Business District,2005,Dollars,1899.21366,105
+Midtown Business District,2006,Dollars,1791.96175,105
+Midtown Business District,2007,Dollars,1751.70565,105
+Midtown Business District,2008,Dollars,1806.26796,105
+Midtown Business District,2009,Dollars,2004.43396,105
+Midtown Business District,2010,Dollars,1898.00839,105
+Midtown Business District,2011,Dollars,2073.22993,105
+Midtown Business District,2012,Dollars,2265.8609,105
+Midtown Business District,2013,Dollars,2276.21061,105
+Midtown Business District,2014,Dollars,2246.49733,105
+Midtown Business District,2015,Dollars,2347.99998,105
+Midtown Business District,2016,Dollars,2415.09437,105
+Midtown Business District,2017,Dollars,2211.97563,105
+Midtown Business District,2018,Dollars,2178.05744,105
+Midtown Business District,2019,Dollars,2052.27046,105
+Midtown Business District,2021,Dollars,786,105
+Murray Hill/Stuyvesant,2005,Dollars,2016.02492,106
+Murray Hill/Stuyvesant,2006,Dollars,2018.44029,106
+Murray Hill/Stuyvesant,2007,Dollars,2170.31178,106
+Murray Hill/Stuyvesant,2008,Dollars,2160.82707,106
+Murray Hill/Stuyvesant,2009,Dollars,2282.14186,106
+Murray Hill/Stuyvesant,2010,Dollars,2260.86293,106
+Murray Hill/Stuyvesant,2011,Dollars,2330.4662,106
+Murray Hill/Stuyvesant,2012,Dollars,2301.73511,106
+Murray Hill/Stuyvesant,2013,Dollars,2276.21061,106
+Murray Hill/Stuyvesant,2014,Dollars,2246.49733,106
+Murray Hill/Stuyvesant,2015,Dollars,2643.0425,106
+Murray Hill/Stuyvesant,2016,Dollars,2723.64043,106
+Murray Hill/Stuyvesant,2017,Dollars,2597.32965,106
+Murray Hill/Stuyvesant,2018,Dollars,2535.90406,106
+Murray Hill/Stuyvesant,2019,Dollars,2849.85022,106
+Murray Hill/Stuyvesant,2021,Dollars,2360,106
+Upper West Side,2005,Dollars,1535.03738,107
+Upper West Side,2006,Dollars,1680.70914,107
+Upper West Side,2007,Dollars,1786.48216,107
+Upper West Side,2008,Dollars,1739.32323,107
+Upper West Side,2009,Dollars,2018.01079,107
+Upper West Side,2010,Dollars,1743.88622,107
+Upper West Side,2011,Dollars,2083.84977,107
+Upper West Side,2012,Dollars,1843.4711,107
+Upper West Side,2013,Dollars,1968.92218,107
+Upper West Side,2014,Dollars,1909.52273,107
+Upper West Side,2015,Dollars,1921.7028,107
+Upper West Side,2016,Dollars,2321.86462,107
+Upper West Side,2017,Dollars,1969.22437,107
+Upper West Side,2018,Dollars,2322.26429,107
+Upper West Side,2019,Dollars,2043.86382,107
+Upper West Side,2021,Dollars,2157,107
+Upper East Side,2005,Dollars,2049.00693,108
+Upper East Side,2006,Dollars,2027.71134,108
+Upper East Side,2007,Dollars,2145.83942,108
+Upper East Side,2008,Dollars,2137.27245,108
+Upper East Side,2009,Dollars,2105.64306,108
+Upper East Side,2010,Dollars,2073.97464,108
+Upper East Side,2011,Dollars,2147.56885,108
+Upper East Side,2012,Dollars,2165.18169,108
+Upper East Side,2013,Dollars,2143.05229,108
+Upper East Side,2014,Dollars,2246.49733,108
+Upper East Side,2015,Dollars,2217.86716,108
+Upper East Side,2016,Dollars,2440.62156,108
+Upper East Side,2017,Dollars,2500.44686,108
+Upper East Side,2018,Dollars,2400.2428,108
+Upper East Side,2019,Dollars,2404.29841,108
+Upper East Side,2021,Dollars,2399,108
+Manhattanville,2005,Dollars,902.88233,109
+Manhattanville,2006,Dollars,932.40286,109
+Manhattanville,2007,Dollars,1052.31141,109
+Manhattanville,2008,Dollars,1113.26604,109
+Manhattanville,2009,Dollars,1171.31024,109
+Manhattanville,2010,Dollars,1095.845,109
+Manhattanville,2011,Dollars,1129.24362,109
+Manhattanville,2012,Dollars,1156.0751,109
+Manhattanville,2013,Dollars,1265.5731,109
+Manhattanville,2014,Dollars,1260.285,109
+Manhattanville,2015,Dollars,1317.03391,109
+Manhattanville,2016,Dollars,1266.37071,109
+Manhattanville,2017,Dollars,1250.76772,109
+Manhattanville,2018,Dollars,1538.20634,109
+Manhattanville,2019,Dollars,1534.2114,109
+Manhattanville,2021,Dollars,1367,109
+Central Harlem,2005,Dollars,831.42132,110
+Central Harlem,2006,Dollars,797.3104,110
+Central Harlem,2007,Dollars,829.48415,110
+Central Harlem,2008,Dollars,820.69278,110
+Central Harlem,2009,Dollars,820.78115,110
+Central Harlem,2010,Dollars,860.41429,110
+Central Harlem,2011,Dollars,897.96697,110
+Central Harlem,2012,Dollars,943.14435,110
+Central Harlem,2013,Dollars,902.51751,110
+Central Harlem,2014,Dollars,981.71933,110
+Central Harlem,2015,Dollars,1083.6923,110
+Central Harlem,2016,Dollars,1026.63708,110
+Central Harlem,2017,Dollars,1063.53356,110
+Central Harlem,2018,Dollars,1135.49537,110
+Central Harlem,2019,Dollars,1168.52266,110
+Central Harlem,2021,Dollars,1140,110
+East Harlem,2005,Dollars,787.44532,111
+East Harlem,2006,Dollars,700.62658,111
+East Harlem,2007,Dollars,713.56245,111
+East Harlem,2008,Dollars,748.78919,111
+East Harlem,2009,Dollars,835.59223,111
+East Harlem,2010,Dollars,873.76345,111
+East Harlem,2011,Dollars,857.84756,111
+East Harlem,2012,Dollars,961.66007,111
+East Harlem,2013,Dollars,909.34614,111
+East Harlem,2014,Dollars,909.83142,111
+East Harlem,2015,Dollars,830.15766,111
+East Harlem,2016,Dollars,915.64929,111
+East Harlem,2017,Dollars,912.22223,111
+East Harlem,2018,Dollars,1039.35748,111
+East Harlem,2019,Dollars,915.27269,111
+East Harlem,2021,Dollars,1079,111
+Washington Heights,2005,Dollars,983.96308,112
+Washington Heights,2006,Dollars,968.16263,112
+Washington Heights,2007,Dollars,1014.95886,112
+Washington Heights,2008,Dollars,1021.52697,112
+Washington Heights,2009,Dollars,1078.74094,112
+Washington Heights,2010,Dollars,1088.56363,112
+Washington Heights,2011,Dollars,1129.24362,112
+Washington Heights,2012,Dollars,1105.15688,112
+Washington Heights,2013,Dollars,1135.8291,112
+Washington Heights,2014,Dollars,1205.24582,112
+Washington Heights,2015,Dollars,1254.21117,112
+Washington Heights,2016,Dollars,1317.4251,112
+Washington Heights,2017,Dollars,1256.21057,112
+Washington Heights,2018,Dollars,1317.08918,112
+Washington Heights,2019,Dollars,1277.80895,112
+Washington Heights,2021,Dollars,1234,112
+Bronx,2005,Dollars,950.98108,36005
+Bronx,2006,Dollars,964.18932,36005
+Bronx,2007,Dollars,984.04641,36005
+Bronx,2008,Dollars,999.21206,36005
+Bronx,2009,Dollars,1020.73084,36005
+Bronx,2010,Dollars,1044.87546,36005
+Bronx,2011,Dollars,1056.08468,36005
+Bronx,2012,Dollars,1053.08142,36005
+Bronx,2013,Dollars,1076.64762,36005
+Bronx,2014,Dollars,1086.18146,36005
+Bronx,2015,Dollars,1128.56569,36005
+Bronx,2016,Dollars,1145.39402,36005
+Bronx,2017,Dollars,1160.41635,36005
+Bronx,2018,Dollars,1162.20034,36005
+Bronx,2019,Dollars,1179.03095,36005
+Bronx,2021,Dollars,1174,36005
+Mott Haven,2005,Dollars,629.40655,201
+Mott Haven,2006,Dollars,712.54651,201
+Mott Haven,2007,Dollars,708.41037,201
+Mott Haven,2008,Dollars,730.19343,201
+Mott Haven,2009,Dollars,771.41085,201
+Mott Haven,2010,Dollars,728.13621,201
+Mott Haven,2011,Dollars,776.42874,201
+Mott Haven,2012,Dollars,777.66013,201
+Mott Haven,2013,Dollars,827.40256,201
+Mott Haven,2014,Dollars,822.21802,201
+Mott Haven,2015,Dollars,866.05637,201
+Mott Haven,2016,Dollars,955.60489,201
+Mott Haven,2017,Dollars,927.46222,201
+Mott Haven,2018,Dollars,889.80964,201
+Mott Haven,2019,Dollars,895.30693,201
+Mott Haven,2021,Dollars,599,201
+Hunts Point,2005,Dollars,629.40655,202
+Hunts Point,2006,Dollars,712.54651,202
+Hunts Point,2007,Dollars,708.41037,202
+Hunts Point,2008,Dollars,730.19343,202
+Hunts Point,2009,Dollars,771.41085,202
+Hunts Point,2010,Dollars,728.13621,202
+Hunts Point,2011,Dollars,776.42874,202
+Hunts Point,2012,Dollars,777.66013,202
+Hunts Point,2013,Dollars,827.40256,202
+Hunts Point,2014,Dollars,822.21802,202
+Hunts Point,2015,Dollars,866.05637,202
+Hunts Point,2016,Dollars,955.60489,202
+Hunts Point,2017,Dollars,927.46222,202
+Hunts Point,2018,Dollars,889.80964,202
+Hunts Point,2019,Dollars,895.30693,202
+Hunts Point,2021,Dollars,342,202
+Morrisania,2005,Dollars,770.95432,203
+Morrisania,2006,Dollars,809.23033,203
+Morrisania,2007,Dollars,843.65235,203
+Morrisania,2008,Dollars,834.32967,203
+Morrisania,2009,Dollars,897.3051,203
+Morrisania,2010,Dollars,871.33633,203
+Morrisania,2011,Dollars,879.08725,203
+Morrisania,2012,Dollars,867.92425,203
+Morrisania,2013,Dollars,925.27961,203
+Morrisania,2014,Dollars,900.84543,203
+Morrisania,2015,Dollars,958.04681,203
+Morrisania,2016,Dollars,968.92343,203
+Morrisania,2017,Dollars,998.21932,203
+Morrisania,2018,Dollars,1007.31151,203
+Morrisania,2019,Dollars,1031.91479,203
+Morrisania,2021,Dollars,483,203
+Concourse/Highbridge,2005,Dollars,889.13983,204
+Concourse/Highbridge,2006,Dollars,900.6164,204
+Concourse/Highbridge,2007,Dollars,941.54179,204
+Concourse/Highbridge,2008,Dollars,922.34959,204
+Concourse/Highbridge,2009,Dollars,963.955,204
+Concourse/Highbridge,2010,Dollars,1001.18729,204
+Concourse/Highbridge,2011,Dollars,998.26552,204
+Concourse/Highbridge,2012,Dollars,1004.47766,204
+Concourse/Highbridge,2013,Dollars,1077.78572,204
+Concourse/Highbridge,2014,Dollars,1009.80055,204
+Concourse/Highbridge,2015,Dollars,1091.54514,204
+Concourse/Highbridge,2016,Dollars,1085.46061,204
+Concourse/Highbridge,2017,Dollars,1107.07639,204
+Concourse/Highbridge,2018,Dollars,1130.15438,204
+Concourse/Highbridge,2019,Dollars,1125.43864,204
+Concourse/Highbridge,2021,Dollars,1119,204
+University Heights,2005,Dollars,930.36733,205
+University Heights,2006,Dollars,950.94497,205
+University Heights,2007,Dollars,949.2699,205
+University Heights,2008,Dollars,958.30139,205
+University Heights,2009,Dollars,1003.45124,205
+University Heights,2010,Dollars,1048.51614,205
+University Heights,2011,Dollars,986.46569,205
+University Heights,2012,Dollars,1046.13803,205
+University Heights,2013,Dollars,1018.60425,205
+University Heights,2014,Dollars,1062.59324,205
+University Heights,2015,Dollars,1090.42331,205
+University Heights,2016,Dollars,1125.41622,205
+University Heights,2017,Dollars,1126.67066,205
+University Heights,2018,Dollars,1139.76817,205
+University Heights,2019,Dollars,1163.26851,205
+University Heights,2021,Dollars,1144,205
+East Tremont,2005,Dollars,770.95432,206
+East Tremont,2006,Dollars,809.23033,206
+East Tremont,2007,Dollars,843.65235,206
+East Tremont,2008,Dollars,834.32967,206
+East Tremont,2009,Dollars,897.3051,206
+East Tremont,2010,Dollars,871.33633,206
+East Tremont,2011,Dollars,879.08725,206
+East Tremont,2012,Dollars,867.92425,206
+East Tremont,2013,Dollars,925.27961,206
+East Tremont,2014,Dollars,900.84543,206
+East Tremont,2015,Dollars,958.04681,206
+East Tremont,2016,Dollars,968.92343,206
+East Tremont,2017,Dollars,998.21932,206
+East Tremont,2018,Dollars,1007.31151,206
+East Tremont,2019,Dollars,1031.91479,206
+East Tremont,2021,Dollars,504,206
+Bedford Park,2005,Dollars,1019.69359,207
+Bedford Park,2006,Dollars,1037.0333,207
+Bedford Park,2007,Dollars,1023.97499,207
+Bedford Park,2008,Dollars,1048.80075,207
+Bedford Park,2009,Dollars,1061.46133,207
+Bedford Park,2010,Dollars,1103.12636,207
+Bedford Park,2011,Dollars,1120.98374,207
+Bedford Park,2012,Dollars,1106.31411,207
+Bedford Park,2013,Dollars,1113.06699,207
+Bedford Park,2014,Dollars,1168.17861,207
+Bedford Park,2015,Dollars,1204.85044,207
+Bedford Park,2016,Dollars,1183.12987,207
+Bedford Park,2017,Dollars,1230.08487,207
+Bedford Park,2018,Dollars,1219.88308,207
+Bedford Park,2019,Dollars,1256.79235,207
+Bedford Park,2021,Dollars,1310,207
+Riverdale,2005,Dollars,1102.14859,208
+Riverdale,2006,Dollars,1117.82389,208
+Riverdale,2007,Dollars,1120.57641,208
+Riverdale,2008,Dollars,1175.2519,208
+Riverdale,2009,Dollars,1195.99538,208
+Riverdale,2010,Dollars,1236.618,208
+Riverdale,2011,Dollars,1234.2621,208
+Riverdale,2012,Dollars,1237.08136,208
+Riverdale,2013,Dollars,1297.44005,208
+Riverdale,2014,Dollars,1196.25983,208
+Riverdale,2015,Dollars,1319.27758,208
+Riverdale,2016,Dollars,1310.76583,208
+Riverdale,2017,Dollars,1397.72476,208
+Riverdale,2018,Dollars,1318.15737,208
+Riverdale,2019,Dollars,1356.62118,208
+Riverdale,2021,Dollars,1356,208
+Unionport/Soundview,2005,Dollars,1007.32534,209
+Unionport/Soundview,2006,Dollars,1025.11338,209
+Unionport/Soundview,2007,Dollars,1008.51877,209
+Unionport/Soundview,2008,Dollars,1030.20499,209
+Unionport/Soundview,2009,Dollars,1046.65024,209
+Unionport/Soundview,2010,Dollars,1083.70939,209
+Unionport/Soundview,2011,Dollars,1119.80376,209
+Unionport/Soundview,2012,Dollars,1082.01223,209
+Unionport/Soundview,2013,Dollars,1081.20004,209
+Unionport/Soundview,2014,Dollars,1141.22064,209
+Unionport/Soundview,2015,Dollars,1165.58623,209
+Unionport/Soundview,2016,Dollars,1196.4484,209
+Unionport/Soundview,2017,Dollars,1175.65634,209
+Unionport/Soundview,2018,Dollars,1195.31451,209
+Unionport/Soundview,2019,Dollars,1183.23427,209
+Unionport/Soundview,2021,Dollars,1179,209
+Throgs Neck,2005,Dollars,1003.20259,210
+Throgs Neck,2006,Dollars,1087.36186,210
+Throgs Neck,2007,Dollars,1063.90358,210
+Throgs Neck,2008,Dollars,1121.94406,210
+Throgs Neck,2009,Dollars,1100.95757,210
+Throgs Neck,2010,Dollars,1154.09589,210
+Throgs Neck,2011,Dollars,1159.92317,210
+Throgs Neck,2012,Dollars,1094.74179,210
+Throgs Neck,2013,Dollars,1205.25352,210
+Throgs Neck,2014,Dollars,1177.1646,210
+Throgs Neck,2015,Dollars,1108.37266,210
+Throgs Neck,2016,Dollars,1266.37071,210
+Throgs Neck,2017,Dollars,1224.64202,210
+Throgs Neck,2018,Dollars,1180.35972,210
+Throgs Neck,2019,Dollars,1213.70833,210
+Throgs Neck,2021,Dollars,1307,210
+Pelham Parkway,2005,Dollars,1071.91509,211
+Pelham Parkway,2006,Dollars,1031.73556,211
+Pelham Parkway,2007,Dollars,1151.48886,211
+Pelham Parkway,2008,Dollars,1073.59509,211
+Pelham Parkway,2009,Dollars,1146.62509,211
+Pelham Parkway,2010,Dollars,1135.89249,211
+Pelham Parkway,2011,Dollars,1167.00307,211
+Pelham Parkway,2012,Dollars,1187.32037,211
+Pelham Parkway,2013,Dollars,1149.48636,211
+Pelham Parkway,2014,Dollars,1225.46429,211
+Pelham Parkway,2015,Dollars,1251.9675,211
+Pelham Parkway,2016,Dollars,1286.34852,211
+Pelham Parkway,2017,Dollars,1276.89341,211
+Pelham Parkway,2018,Dollars,1313.88458,211
+Pelham Parkway,2019,Dollars,1352.41786,211
+Pelham Parkway,2021,Dollars,1363,211
+Williamsbridge,2005,Dollars,1067.79234,212
+Williamsbridge,2006,Dollars,1091.33517,212
+Williamsbridge,2007,Dollars,1137.32065,212
+Williamsbridge,2008,Dollars,1145.49869,212
+Williamsbridge,2009,Dollars,1172.54449,212
+Williamsbridge,2010,Dollars,1124.97044,212
+Williamsbridge,2011,Dollars,1169.36304,212
+Williamsbridge,2012,Dollars,1187.32037,212
+Williamsbridge,2013,Dollars,1223.4632,212
+Williamsbridge,2014,Dollars,1222.09455,212
+Williamsbridge,2015,Dollars,1235.13998,212
+Williamsbridge,2016,Dollars,1237.51389,212
+Williamsbridge,2017,Dollars,1383.57334,212
+Williamsbridge,2018,Dollars,1337.38495,212
+Williamsbridge,2019,Dollars,1290.4189,212
+Williamsbridge,2021,Dollars,1271,212
+Brooklyn,2005,Dollars,1082.90909,36047
+Brooklyn,2006,Dollars,1082.06412,36047
+Brooklyn,2007,Dollars,1102.54414,36047
+Brooklyn,2008,Dollars,1110.78661,36047
+Brooklyn,2009,Dollars,1152.79638,36047
+Brooklyn,2010,Dollars,1186.86202,36047
+Brooklyn,2011,Dollars,1203.58254,36047
+Brooklyn,2012,Dollars,1226.66627,36047
+Brooklyn,2013,Dollars,1248.50152,36047
+Brooklyn,2014,Dollars,1276.01048,36047
+Brooklyn,2015,Dollars,1313.66841,36047
+Brooklyn,2016,Dollars,1361.82022,36047
+Brooklyn,2017,Dollars,1363.97907,36047
+Brooklyn,2018,Dollars,1421.77266,36047
+Brooklyn,2019,Dollars,1459.60249,36047
+Brooklyn,2021,Dollars,1525,36047
+Williamsburg/Greenpoint,2005,Dollars,1004.57684,301
+Williamsburg/Greenpoint,2006,Dollars,952.2694,301
+Williamsburg/Greenpoint,2007,Dollars,1136.03263,301
+Williamsburg/Greenpoint,2008,Dollars,1078.55396,301
+Williamsburg/Greenpoint,2009,Dollars,1183.65281,301
+Williamsburg/Greenpoint,2010,Dollars,1182.00778,301
+Williamsburg/Greenpoint,2011,Dollars,1336.92061,301
+Williamsburg/Greenpoint,2012,Dollars,1415.29514,301
+Williamsburg/Greenpoint,2013,Dollars,1346.37858,301
+Williamsburg/Greenpoint,2014,Dollars,1637.69655,301
+Williamsburg/Greenpoint,2015,Dollars,1689.48302,301
+Williamsburg/Greenpoint,2016,Dollars,1812.43065,301
+Williamsburg/Greenpoint,2017,Dollars,2016.03291,301
+Williamsburg/Greenpoint,2018,Dollars,1913.14413,301
+Williamsburg/Greenpoint,2019,Dollars,2011.2881,301
+Williamsburg/Greenpoint,2021,Dollars,2249,301
+Fort Greene/Brooklyn Hts,2005,Dollars,1078.78634,302
+Fort Greene/Brooklyn Hts,2006,Dollars,1145.63704,302
+Fort Greene/Brooklyn Hts,2007,Dollars,1297.03499,302
+Fort Greene/Brooklyn Hts,2008,Dollars,1234.75833,302
+Fort Greene/Brooklyn Hts,2009,Dollars,1340.4035,302
+Fort Greene/Brooklyn Hts,2010,Dollars,1594.6183,302
+Fort Greene/Brooklyn Hts,2011,Dollars,1523.3579,302
+Fort Greene/Brooklyn Hts,2012,Dollars,1695.34536,302
+Fort Greene/Brooklyn Hts,2013,Dollars,1602.45227,302
+Fort Greene/Brooklyn Hts,2014,Dollars,1733.17269,302
+Fort Greene/Brooklyn Hts,2015,Dollars,1842.05254,302
+Fort Greene/Brooklyn Hts,2016,Dollars,1917.86906,302
+Fort Greene/Brooklyn Hts,2017,Dollars,1986.6415,302
+Fort Greene/Brooklyn Hts,2018,Dollars,2174.85285,302
+Fort Greene/Brooklyn Hts,2019,Dollars,2266.63972,302
+Fort Greene/Brooklyn Hts,2021,Dollars,2369,302
+Bedford Stuyvesant,2005,Dollars,861.65482,303
+Bedford Stuyvesant,2006,Dollars,844.9901,303
+Bedford Stuyvesant,2007,Dollars,941.54179,303
+Bedford Stuyvesant,2008,Dollars,989.29432,303
+Bedford Stuyvesant,2009,Dollars,1014.55955,303
+Bedford Stuyvesant,2010,Dollars,1055.7975,303
+Bedford Stuyvesant,2011,Dollars,966.40598,303
+Bedford Stuyvesant,2012,Dollars,1094.74179,303
+Bedford Stuyvesant,2013,Dollars,1037.95204,303
+Bedford Stuyvesant,2014,Dollars,1087.30471,303
+Bedford Stuyvesant,2015,Dollars,1226.1653,303
+Bedford Stuyvesant,2016,Dollars,1296.33742,303
+Bedford Stuyvesant,2017,Dollars,1244.23629,303
+Bedford Stuyvesant,2018,Dollars,1381.18111,303
+Bedford Stuyvesant,2019,Dollars,1406.01017,303
+Bedford Stuyvesant,2021,Dollars,1720,303
+Bushwick,2005,Dollars,934.49008,304
+Bushwick,2006,Dollars,966.8382,304
+Bushwick,2007,Dollars,1023.97499,304
+Bushwick,2008,Dollars,1085.99226,304
+Bushwick,2009,Dollars,1166.37321,304
+Bushwick,2010,Dollars,1202.63831,304
+Bushwick,2011,Dollars,1222.46227,304
+Bushwick,2012,Dollars,1227.8235,304
+Bushwick,2013,Dollars,1255.33015,304
+Bushwick,2014,Dollars,1261.40825,304
+Bushwick,2015,Dollars,1315.91208,304
+Bushwick,2016,Dollars,1419.53387,304
+Bushwick,2017,Dollars,1461.95043,304
+Bushwick,2018,Dollars,1556.36572,304
+Bushwick,2019,Dollars,1671.87009,304
+Bushwick,2021,Dollars,1753,304
+East New York,2005,Dollars,946.85833,305
+East New York,2006,Dollars,1060.87314,305
+East New York,2007,Dollars,1080.64782,305
+East New York,2008,Dollars,1094.67028,305
+East New York,2009,Dollars,1098.48905,305
+East New York,2010,Dollars,1144.38741,305
+East New York,2011,Dollars,1151.66329,305
+East New York,2012,Dollars,1079.69776,305
+East New York,2013,Dollars,1193.87247,305
+East New York,2014,Dollars,1113.13943,305
+East New York,2015,Dollars,1146.51504,305
+East New York,2016,Dollars,1154.27304,305
+East New York,2017,Dollars,1215.93345,305
+East New York,2018,Dollars,1224.15588,305
+East New York,2019,Dollars,1188.48842,305
+East New York,2021,Dollars,1193,305
+Park Slope,2005,Dollars,1683.45639,306
+Park Slope,2006,Dollars,1658.19373,306
+Park Slope,2007,Dollars,1532.74244,306
+Park Slope,2008,Dollars,1699.65228,306
+Park Slope,2009,Dollars,1932.84703,306
+Park Slope,2010,Dollars,1902.86263,306
+Park Slope,2011,Dollars,1931.63198,306
+Park Slope,2012,Dollars,1883.97423,306
+Park Slope,2013,Dollars,2063.38492,306
+Park Slope,2014,Dollars,2145.40495,306
+Park Slope,2015,Dollars,2208.89248,306
+Park Slope,2016,Dollars,2118.75696,306
+Park Slope,2017,Dollars,2340.42697,306
+Park Slope,2018,Dollars,2198.35322,306
+Park Slope,2019,Dollars,2361.2144,306
+Park Slope,2021,Dollars,2350,306
+Sunset Park,2005,Dollars,1109.01984,307
+Sunset Park,2006,Dollars,1156.23253,307
+Sunset Park,2007,Dollars,1141.18471,307
+Sunset Park,2008,Dollars,1180.21077,307
+Sunset Park,2009,Dollars,1228.08608,307
+Sunset Park,2010,Dollars,1291.22821,307
+Sunset Park,2011,Dollars,1233.08211,307
+Sunset Park,2012,Dollars,1305.35807,307
+Sunset Park,2013,Dollars,1332.72131,307
+Sunset Park,2014,Dollars,1366.99362,307
+Sunset Park,2015,Dollars,1309.18107,307
+Sunset Park,2016,Dollars,1417.31411,307
+Sunset Park,2017,Dollars,1440.17901,307
+Sunset Park,2018,Dollars,1603.36647,307
+Sunset Park,2019,Dollars,1503.73734,307
+Sunset Park,2021,Dollars,1516,307
+Crown Heights North,2005,Dollars,1021.06784,308
+Crown Heights North,2006,Dollars,1001.27353,308
+Crown Heights North,2007,Dollars,1004.65471,308
+Crown Heights North,2008,Dollars,1063.67735,308
+Crown Heights North,2009,Dollars,1076.27242,308
+Crown Heights North,2010,Dollars,1155.30945,308
+Crown Heights North,2011,Dollars,1123.34371,308
+Crown Heights North,2012,Dollars,1121.35813,308
+Crown Heights North,2013,Dollars,1136.9672,308
+Crown Heights North,2014,Dollars,1191.76683,308
+Crown Heights North,2015,Dollars,1247.48016,308
+Crown Heights North,2016,Dollars,1357.3807,308
+Crown Heights North,2017,Dollars,1288.86769,308
+Crown Heights North,2018,Dollars,1388.6585,308
+Crown Heights North,2019,Dollars,1506.88983,308
+Crown Heights North,2021,Dollars,1604,308
+Crown Heights South,2005,Dollars,1076.03784,309
+Crown Heights South,2006,Dollars,1060.87314,309
+Crown Heights South,2007,Dollars,1058.7515,309
+Crown Heights South,2008,Dollars,1064.91707,309
+Crown Heights South,2009,Dollars,1078.74094,309
+Crown Heights South,2010,Dollars,1100.69924,309
+Crown Heights South,2011,Dollars,1105.64396,309
+Crown Heights South,2012,Dollars,1179.21975,309
+Crown Heights South,2013,Dollars,1195.01057,309
+Crown Heights South,2014,Dollars,1283.87322,309
+Crown Heights South,2015,Dollars,1282.25704,309
+Crown Heights South,2016,Dollars,1329.63376,309
+Crown Heights South,2017,Dollars,1283.42484,309
+Crown Heights South,2018,Dollars,1458.09142,309
+Crown Heights South,2019,Dollars,1381.84109,309
+Crown Heights South,2021,Dollars,1409,309
+Bay Ridge,2005,Dollars,1184.6036,310
+Bay Ridge,2006,Dollars,1240.99643,310
+Bay Ridge,2007,Dollars,1223.61792,310
+Bay Ridge,2008,Dollars,1223.60087,310
+Bay Ridge,2009,Dollars,1335.46647,310
+Bay Ridge,2010,Dollars,1319.1401,310
+Bay Ridge,2011,Dollars,1322.76081,310
+Bay Ridge,2012,Dollars,1326.18825,310
+Bay Ridge,2013,Dollars,1337.27373,310
+Bay Ridge,2014,Dollars,1356.88439,310
+Bay Ridge,2015,Dollars,1429.21738,310
+Bay Ridge,2016,Dollars,1510.54386,310
+Bay Ridge,2017,Dollars,1461.95043,310
+Bay Ridge,2018,Dollars,1457.02322,310
+Bay Ridge,2019,Dollars,1638.24354,310
+Bay Ridge,2021,Dollars,1515,310
+Bensonhurst,2005,Dollars,1142.00185,311
+Bensonhurst,2006,Dollars,1180.07237,311
+Bensonhurst,2007,Dollars,1139.89669,311
+Bensonhurst,2008,Dollars,1095.91,311
+Bensonhurst,2009,Dollars,1081.20945,311
+Bensonhurst,2010,Dollars,1123.75688,311
+Bensonhurst,2011,Dollars,1207.12249,311
+Bensonhurst,2012,Dollars,1250.96815,311
+Bensonhurst,2013,Dollars,1238.25857,311
+Bensonhurst,2014,Dollars,1276.01048,311
+Bensonhurst,2015,Dollars,1284.50071,311
+Bensonhurst,2016,Dollars,1350.72144,311
+Bensonhurst,2017,Dollars,1373.7762,311
+Bensonhurst,2018,Dollars,1404.68148,311
+Bensonhurst,2019,Dollars,1428.0776,311
+Bensonhurst,2021,Dollars,1424,311
+Borough Park,2005,Dollars,1184.6036,312
+Borough Park,2006,Dollars,1149.61035,312
+Borough Park,2007,Dollars,1141.18471,312
+Borough Park,2008,Dollars,1213.68314,312
+Borough Park,2009,Dollars,1209.57222,312
+Borough Park,2010,Dollars,1337.34351,312
+Borough Park,2011,Dollars,1267.30162,312
+Borough Park,2012,Dollars,1307.67253,312
+Borough Park,2013,Dollars,1325.89268,312
+Borough Park,2014,Dollars,1393.95159,312
+Borough Park,2015,Dollars,1363.02913,312
+Borough Park,2016,Dollars,1465.03886,312
+Borough Park,2017,Dollars,1374.86477,312
+Borough Park,2018,Dollars,1525.38795,312
+Borough Park,2019,Dollars,1547.87219,312
+Borough Park,2021,Dollars,1515,312
+Coney Island,2005,Dollars,886.39133,313
+Coney Island,2006,Dollars,872.80325,313
+Coney Island,2007,Dollars,910.62933,313
+Coney Island,2008,Dollars,865.3226,313
+Coney Island,2009,Dollars,970.12629,313
+Coney Island,2010,Dollars,956.28556,313
+Coney Island,2011,Dollars,982.92574,313
+Coney Island,2012,Dollars,943.14435,313
+Coney Island,2013,Dollars,985.59919,313
+Coney Island,2014,Dollars,913.20116,313
+Coney Island,2015,Dollars,1079.20496,313
+Coney Island,2016,Dollars,1024.41733,313
+Coney Island,2017,Dollars,1041.76214,313
+Coney Island,2018,Dollars,1156.85935,313
+Coney Island,2019,Dollars,1084.45628,313
+Coney Island,2021,Dollars,1118,313
+Flatbush/Midwood,2005,Dollars,1146.1246,314
+Flatbush/Midwood,2006,Dollars,1107.2284,314
+Flatbush/Midwood,2007,Dollars,1129.59254,314
+Flatbush/Midwood,2008,Dollars,1139.3001,314
+Flatbush/Midwood,2009,Dollars,1149.0936,314
+Flatbush/Midwood,2010,Dollars,1179.58066,314
+Flatbush/Midwood,2011,Dollars,1228.36218,314
+Flatbush/Midwood,2012,Dollars,1237.08136,314
+Flatbush/Midwood,2013,Dollars,1246.22531,314
+Flatbush/Midwood,2014,Dollars,1283.87322,314
+Flatbush/Midwood,2015,Dollars,1339.47061,314
+Flatbush/Midwood,2016,Dollars,1315.20534,314
+Flatbush/Midwood,2017,Dollars,1395.54762,314
+Flatbush/Midwood,2018,Dollars,1354.47613,314
+Flatbush/Midwood,2019,Dollars,1473.26328,314
+Flatbush/Midwood,2021,Dollars,1432,314
+Sheepshead Bay,2005,Dollars,1155.74435,315
+Sheepshead Bay,2006,Dollars,1087.36186,315
+Sheepshead Bay,2007,Dollars,1125.72848,315
+Sheepshead Bay,2008,Dollars,1085.99226,315
+Sheepshead Bay,2009,Dollars,1166.37321,315
+Sheepshead Bay,2010,Dollars,1149.24165,315
+Sheepshead Bay,2011,Dollars,1185.8828,315
+Sheepshead Bay,2012,Dollars,1226.66627,315
+Sheepshead Bay,2013,Dollars,1233.70615,315
+Sheepshead Bay,2014,Dollars,1256.91526,315
+Sheepshead Bay,2015,Dollars,1338.34877,315
+Sheepshead Bay,2016,Dollars,1334.07327,315
+Sheepshead Bay,2017,Dollars,1408.61046,315
+Sheepshead Bay,2018,Dollars,1399.34049,315
+Sheepshead Bay,2019,Dollars,1414.41681,315
+Sheepshead Bay,2021,Dollars,1440,315
+Brownsville,2005,Dollars,744.84356,316
+Brownsville,2006,Dollars,770.82169,316
+Brownsville,2007,Dollars,784.40349,316
+Brownsville,2008,Dollars,802.09703,316
+Brownsville,2009,Dollars,881.25976,316
+Brownsville,2010,Dollars,890.7533,316
+Brownsville,2011,Dollars,873.18733,316
+Brownsville,2012,Dollars,991.74811,316
+Brownsville,2013,Dollars,878.6173,316
+Brownsville,2014,Dollars,977.22634,316
+Brownsville,2015,Dollars,900.83325,316
+Brownsville,2016,Dollars,1000.00001,316
+Brownsville,2017,Dollars,888.27368,316
+Brownsville,2018,Dollars,968.85635,316
+Brownsville,2019,Dollars,1066.59217,316
+Brownsville,2021,Dollars,971,316
+East Flatbush,2005,Dollars,1135.1306,317
+East Flatbush,2006,Dollars,1115.17502,317
+East Flatbush,2007,Dollars,1112.84829,317
+East Flatbush,2008,Dollars,1152.93699,317
+East Flatbush,2009,Dollars,1160.20192,317
+East Flatbush,2010,Dollars,1173.51286,317
+East Flatbush,2011,Dollars,1165.82309,317
+East Flatbush,2012,Dollars,1171.11912,317
+East Flatbush,2013,Dollars,1251.91584,317
+East Flatbush,2014,Dollars,1220.9713,317
+East Flatbush,2015,Dollars,1257.57667,317
+East Flatbush,2016,Dollars,1325.19424,317
+East Flatbush,2017,Dollars,1284.51341,317
+East Flatbush,2018,Dollars,1313.88458,317
+East Flatbush,2019,Dollars,1377.63777,317
+East Flatbush,2021,Dollars,1385,317
+Canarsie,2005,Dollars,1221.70835,318
+Canarsie,2006,Dollars,1214.50771,318
+Canarsie,2007,Dollars,1288.01886,318
+Canarsie,2008,Dollars,1244.67607,318
+Canarsie,2009,Dollars,1298.43875,318
+Canarsie,2010,Dollars,1236.618,318
+Canarsie,2011,Dollars,1268.4816,318
+Canarsie,2012,Dollars,1283.37065,318
+Canarsie,2013,Dollars,1325.89268,318
+Canarsie,2014,Dollars,1286.11972,318
+Canarsie,2015,Dollars,1317.03391,318
+Canarsie,2016,Dollars,1399.55606,318
+Canarsie,2017,Dollars,1390.10476,318
+Canarsie,2018,Dollars,1443.13664,318
+Canarsie,2019,Dollars,1388.14607,318
+Canarsie,2021,Dollars,1508,318
+Queens,2005,Dollars,1294.54361,36081
+Queens,2006,Dollars,1301.92048,36081
+Queens,2007,Dollars,1297.03499,36081
+Queens,2008,Dollars,1309.14136,36081
+Queens,2009,Dollars,1366.3229,36081
+Queens,2010,Dollars,1379.81812,36081
+Queens,2011,Dollars,1371.14011,36081
+Queens,2012,Dollars,1373.63478,36081
+Queens,2013,Dollars,1387.35037,36081
+Queens,2014,Dollars,1433.2653,36081
+Queens,2015,Dollars,1490.91829,36081
+Queens,2016,Dollars,1508.3241,36081
+Queens,2017,Dollars,1532.70752,36081
+Queens,2018,Dollars,1583.07069,36081
+Queens,2019,Dollars,1637.19271,36081
+Queens,2021,Dollars,1630,36081
+Astoria,2005,Dollars,1267.05861,401
+Astoria,2006,Dollars,1266.16071,401
+Astoria,2007,Dollars,1236.49811,401
+Astoria,2008,Dollars,1309.14136,401
+Astoria,2009,Dollars,1365.08864,401
+Astoria,2010,Dollars,1415.01137,401
+Astoria,2011,Dollars,1393.55979,401
+Astoria,2012,Dollars,1437.28255,401
+Astoria,2013,Dollars,1476.12258,401
+Astoria,2014,Dollars,1545.59016,401
+Astoria,2015,Dollars,1585.1524,401
+Astoria,2016,Dollars,1613.7625,401
+Astoria,2017,Dollars,1704.70169,401
+Astoria,2018,Dollars,1736.89132,401
+Astoria,2019,Dollars,1782.20722,401
+Astoria,2021,Dollars,1706,401
+Sunnyside/Woodside,2005,Dollars,1302.78911,402
+Sunnyside/Woodside,2006,Dollars,1311.19153,402
+Sunnyside/Woodside,2007,Dollars,1378.18018,402
+Sunnyside/Woodside,2008,Dollars,1309.14136,402
+Sunnyside/Woodside,2009,Dollars,1403.35062,402
+Sunnyside/Woodside,2010,Dollars,1428.36053,402
+Sunnyside/Woodside,2011,Dollars,1434.85919,402
+Sunnyside/Woodside,2012,Dollars,1493.98694,402
+Sunnyside/Woodside,2013,Dollars,1505.71332,402
+Sunnyside/Woodside,2014,Dollars,1611.86183,402
+Sunnyside/Woodside,2015,Dollars,1624.41661,402
+Sunnyside/Woodside,2016,Dollars,1651.49835,402
+Sunnyside/Woodside,2017,Dollars,1611.08461,402
+Sunnyside/Woodside,2018,Dollars,1757.1871,402
+Sunnyside/Woodside,2019,Dollars,1830.54538,402
+Sunnyside/Woodside,2021,Dollars,1778,402
+Jackson Heights,2005,Dollars,1328.89986,403
+Jackson Heights,2006,Dollars,1290.00055,403
+Jackson Heights,2007,Dollars,1335.67556,403
+Jackson Heights,2008,Dollars,1314.10023,403
+Jackson Heights,2009,Dollars,1374.9627,403
+Jackson Heights,2010,Dollars,1356.76047,403
+Jackson Heights,2011,Dollars,1331.02069,403
+Jackson Heights,2012,Dollars,1373.63478,403
+Jackson Heights,2013,Dollars,1402.14574,403
+Jackson Heights,2014,Dollars,1432.14205,403
+Jackson Heights,2015,Dollars,1455.01958,403
+Jackson Heights,2016,Dollars,1509.43398,403
+Jackson Heights,2017,Dollars,1547.94751,403
+Jackson Heights,2018,Dollars,1552.09292,403
+Jackson Heights,2019,Dollars,1629.83691,403
+Jackson Heights,2021,Dollars,1596,403
+Elmhurst/Corona,2005,Dollars,1320.65436,404
+Elmhurst/Corona,2006,Dollars,1332.3825,404
+Elmhurst/Corona,2007,Dollars,1281.57877,404
+Elmhurst/Corona,2008,Dollars,1317.81938,404
+Elmhurst/Corona,2009,Dollars,1383.6025,404
+Elmhurst/Corona,2010,Dollars,1388.31304,404
+Elmhurst/Corona,2011,Dollars,1366.42018,404
+Elmhurst/Corona,2012,Dollars,1373.63478,404
+Elmhurst/Corona,2013,Dollars,1401.00763,404
+Elmhurst/Corona,2014,Dollars,1424.27931,404
+Elmhurst/Corona,2015,Dollars,1476.33444,404
+Elmhurst/Corona,2016,Dollars,1426.19314,404
+Elmhurst/Corona,2017,Dollars,1508.75897,404
+Elmhurst/Corona,2018,Dollars,1625.79864,404
+Elmhurst/Corona,2019,Dollars,1618.27778,404
+Elmhurst/Corona,2021,Dollars,1616,404
+Ridgewood/Glendale,2005,Dollars,1286.29811,405
+Ridgewood/Glendale,2006,Dollars,1264.83627,405
+Ridgewood/Glendale,2007,Dollars,1279.00273,405
+Ridgewood/Glendale,2008,Dollars,1266.99097,405
+Ridgewood/Glendale,2009,Dollars,1330.52944,405
+Ridgewood/Glendale,2010,Dollars,1376.17744,405
+Ridgewood/Glendale,2011,Dollars,1328.66073,405
+Ridgewood/Glendale,2012,Dollars,1303.0436,405
+Ridgewood/Glendale,2013,Dollars,1300.85436,405
+Ridgewood/Glendale,2014,Dollars,1350.14489,405
+Ridgewood/Glendale,2015,Dollars,1474.09077,405
+Ridgewood/Glendale,2016,Dollars,1522.75251,405
+Ridgewood/Glendale,2017,Dollars,1509.84754,405
+Ridgewood/Glendale,2018,Dollars,1587.34348,405
+Ridgewood/Glendale,2019,Dollars,1688.68337,405
+Ridgewood/Glendale,2021,Dollars,1667,405
+Rego Park/Forest Hills,2005,Dollars,1349.51362,406
+Rego Park/Forest Hills,2006,Dollars,1414.49753,406
+Rego Park/Forest Hills,2007,Dollars,1467.05348,406
+Rego Park/Forest Hills,2008,Dollars,1464.10601,406
+Rego Park/Forest Hills,2009,Dollars,1471.23478,406
+Rego Park/Forest Hills,2010,Dollars,1473.26226,406
+Rego Park/Forest Hills,2011,Dollars,1538.69768,406
+Rego Park/Forest Hills,2012,Dollars,1509.03096,406
+Rego Park/Forest Hills,2013,Dollars,1553.51374,406
+Rego Park/Forest Hills,2014,Dollars,1620.84782,406
+Rego Park/Forest Hills,2015,Dollars,1650.21881,406
+Rego Park/Forest Hills,2016,Dollars,1658.15762,406
+Rego Park/Forest Hills,2017,Dollars,1740.62452,406
+Rego Park/Forest Hills,2018,Dollars,1821.27903,406
+Rego Park/Forest Hills,2019,Dollars,1799.02049,406
+Rego Park/Forest Hills,2021,Dollars,1733,406
+Flushing,2005,Dollars,1383.86987,407
+Flushing,2006,Dollars,1426.41745,407
+Flushing,2007,Dollars,1405.22858,407
+Flushing,2008,Dollars,1405.8393,407
+Flushing,2009,Dollars,1444.08111,407
+Flushing,2010,Dollars,1451.41818,407
+Flushing,2011,Dollars,1417.15944,407
+Flushing,2012,Dollars,1401.40835,407
+Flushing,2013,Dollars,1388.48847,407
+Flushing,2014,Dollars,1415.29332,407
+Flushing,2015,Dollars,1469.60343,407
+Flushing,2016,Dollars,1568.25751,407
+Flushing,2017,Dollars,1544.6818,407
+Flushing,2018,Dollars,1545.68373,407
+Flushing,2019,Dollars,1582.54957,407
+Flushing,2021,Dollars,1553,407
+Fresh Meadows/Briarwood,2005,Dollars,1260.18736,408
+Fresh Meadows/Briarwood,2006,Dollars,1319.13814,408
+Fresh Meadows/Briarwood,2007,Dollars,1258.39443,408
+Fresh Meadows/Briarwood,2008,Dollars,1321.53853,408
+Fresh Meadows/Briarwood,2009,Dollars,1404.58488,408
+Fresh Meadows/Briarwood,2010,Dollars,1366.46895,408
+Fresh Meadows/Briarwood,2011,Dollars,1345.18049,408
+Fresh Meadows/Briarwood,2012,Dollars,1375.94924,408
+Fresh Meadows/Briarwood,2013,Dollars,1358.89774,408
+Fresh Meadows/Briarwood,2014,Dollars,1416.41657,408
+Fresh Meadows/Briarwood,2015,Dollars,1539.15718,408
+Fresh Meadows/Briarwood,2016,Dollars,1596.00446,408
+Fresh Meadows/Briarwood,2017,Dollars,1502.22754,408
+Fresh Meadows/Briarwood,2018,Dollars,1498.68298,408
+Fresh Meadows/Briarwood,2019,Dollars,1568.88878,408
+Fresh Meadows/Briarwood,2021,Dollars,1584,408
+Woodhaven,2005,Dollars,1268.43286,409
+Woodhaven,2006,Dollars,1335.03137,409
+Woodhaven,2007,Dollars,1329.23546,409
+Woodhaven,2008,Dollars,1327.73712,409
+Woodhaven,2009,Dollars,1374.9627,409
+Woodhaven,2010,Dollars,1366.46895,409
+Woodhaven,2011,Dollars,1385.29991,409
+Woodhaven,2012,Dollars,1418.76684,409
+Woodhaven,2013,Dollars,1385.07416,409
+Woodhaven,2014,Dollars,1460.22326,409
+Woodhaven,2015,Dollars,1468.48159,409
+Woodhaven,2016,Dollars,1520.53276,409
+Woodhaven,2017,Dollars,1512.02468,409
+Woodhaven,2018,Dollars,1646.09442,409
+Woodhaven,2019,Dollars,1604.61699,409
+Woodhaven,2021,Dollars,1643,409
+Howard Beach,2005,Dollars,1420.97462,410
+Howard Beach,2006,Dollars,1386.68437,410
+Howard Beach,2007,Dollars,1354.99584,410
+Howard Beach,2008,Dollars,1363.68892,410
+Howard Beach,2009,Dollars,1416.92745,410
+Howard Beach,2010,Dollars,1389.5266,410
+Howard Beach,2011,Dollars,1354.62035,410
+Howard Beach,2012,Dollars,1390.99326,410
+Howard Beach,2013,Dollars,1336.13563,410
+Howard Beach,2014,Dollars,1380.47261,410
+Howard Beach,2015,Dollars,1437.07022,410
+Howard Beach,2016,Dollars,1530.52166,410
+Howard Beach,2017,Dollars,1543.59323,410
+Howard Beach,2018,Dollars,1627.93504,410
+Howard Beach,2019,Dollars,1684.48005,410
+Howard Beach,2021,Dollars,1709,410
+Bayside,2005,Dollars,1546.03138,411
+Bayside,2006,Dollars,1500.58586,411
+Bayside,2007,Dollars,1490.23782,411
+Bayside,2008,Dollars,1509.97555,411
+Bayside,2009,Dollars,1534.1819,411
+Bayside,2010,Dollars,1497.53347,411
+Bayside,2011,Dollars,1722.77501,411
+Bayside,2012,Dollars,1668.72902,411
+Bayside,2013,Dollars,1630.9049,411
+Bayside,2014,Dollars,1607.36884,411
+Bayside,2015,Dollars,1763.52411,411
+Bayside,2016,Dollars,1731.40956,411
+Bayside,2017,Dollars,1833.15303,411
+Bayside,2018,Dollars,1889.64376,411
+Bayside,2019,Dollars,1885.18853,411
+Bayside,2021,Dollars,2013,411
+Jamaica/St. Albans,2005,Dollars,1132.3821,412
+Jamaica/St. Albans,2006,Dollars,1121.7972,412
+Jamaica/St. Albans,2007,Dollars,1125.72848,412
+Jamaica/St. Albans,2008,Dollars,1149.21784,412
+Jamaica/St. Albans,2009,Dollars,1209.57222,412
+Jamaica/St. Albans,2010,Dollars,1206.27899,412
+Jamaica/St. Albans,2011,Dollars,1231.90213,412
+Jamaica/St. Albans,2012,Dollars,1240.55306,412
+Jamaica/St. Albans,2013,Dollars,1282.64468,412
+Jamaica/St. Albans,2014,Dollars,1260.285,412
+Jamaica/St. Albans,2015,Dollars,1286.74438,412
+Jamaica/St. Albans,2016,Dollars,1267.48059,412
+Jamaica/St. Albans,2017,Dollars,1284.51341,412
+Jamaica/St. Albans,2018,Dollars,1298.92979,412
+Jamaica/St. Albans,2019,Dollars,1275.70729,412
+Jamaica/St. Albans,2021,Dollars,1433,412
+Queens Village,2005,Dollars,1458.07937,413
+Queens Village,2006,Dollars,1418.47083,413
+Queens Village,2007,Dollars,1472.20556,413
+Queens Village,2008,Dollars,1390.96269,413
+Queens Village,2009,Dollars,1461.36072,413
+Queens Village,2010,Dollars,1474.47582,413
+Queens Village,2011,Dollars,1545.77758,413
+Queens Village,2012,Dollars,1416.45237,413
+Queens Village,2013,Dollars,1421.49353,413
+Queens Village,2014,Dollars,1495.04397,413
+Queens Village,2015,Dollars,1566.08121,413
+Queens Village,2016,Dollars,1497.22532,413
+Queens Village,2017,Dollars,1556.65608,413
+Queens Village,2018,Dollars,1523.25155,413
+Queens Village,2019,Dollars,1746.47901,413
+Queens Village,2021,Dollars,1621,413
+The Rockaways,2005,Dollars,972.96908,414
+The Rockaways,2006,Dollars,997.30022,414
+The Rockaways,2007,Dollars,971.16622,414
+The Rockaways,2008,Dollars,1028.96527,414
+The Rockaways,2009,Dollars,1079.97519,414
+The Rockaways,2010,Dollars,1064.29243,414
+The Rockaways,2011,Dollars,1089.1242,414
+The Rockaways,2012,Dollars,1064.65374,414
+The Rockaways,2013,Dollars,1142.65773,414
+The Rockaways,2014,Dollars,1078.31872,414
+The Rockaways,2015,Dollars,1208.21595,414
+The Rockaways,2016,Dollars,1094.33964,414
+The Rockaways,2017,Dollars,1218.1106,414
+The Rockaways,2018,Dollars,1243.38345,414
+The Rockaways,2019,Dollars,1250.48737,414
+The Rockaways,2021,Dollars,1263,414
+Staten Island,2005,Dollars,1187.3521,36085
+Staten Island,2006,Dollars,1164.17914,36085
+Staten Island,2007,Dollars,1195.2815,36085
+Staten Island,2008,Dollars,1162.85473,36085
+Staten Island,2009,Dollars,1182.41855,36085
+Staten Island,2010,Dollars,1231.76375,36085
+Staten Island,2011,Dollars,1169.36304,36085
+Staten Island,2012,Dollars,1136.40215,36085
+Staten Island,2013,Dollars,1144.93394,36085
+Staten Island,2014,Dollars,1119.87892,36085
+Staten Island,2015,Dollars,1200.36311,36085
+Staten Island,2016,Dollars,1238.62377,36085
+Staten Island,2017,Dollars,1243.14772,36085
+Staten Island,2018,Dollars,1231.63327,36085
+Staten Island,2019,Dollars,1229.47078,36085
+Staten Island,2021,Dollars,1306,36085
+St. George,2005,Dollars,1137.8791,501
+St. George,2006,Dollars,1116.49945,501
+St. George,2007,Dollars,1170.80914,501
+St. George,2008,Dollars,1155.41643,501
+St. George,2009,Dollars,1097.2548,501
+St. George,2010,Dollars,1249.96716,501
+St. George,2011,Dollars,1161.10316,501
+St. George,2012,Dollars,1114.41473,501
+St. George,2013,Dollars,1081.20004,501
+St. George,2014,Dollars,1086.18146,501
+St. George,2015,Dollars,1184.65742,501
+St. George,2016,Dollars,1223.08547,501
+St. George,2017,Dollars,1157.15064,501
+St. George,2018,Dollars,1173.95053,501
+St. George,2019,Dollars,1161.16685,501
+St. George,2021,Dollars,1279,501
+South Beach,2005,Dollars,1231.32811,502
+South Beach,2006,Dollars,1219.80545,502
+South Beach,2007,Dollars,1210.73773,502
+South Beach,2008,Dollars,1151.69728,502
+South Beach,2009,Dollars,1233.02311,502
+South Beach,2010,Dollars,1143.17385,502
+South Beach,2011,Dollars,1152.84328,502
+South Beach,2012,Dollars,1099.37071,502
+South Beach,2013,Dollars,1237.12047,502
+South Beach,2014,Dollars,1147.96014,502
+South Beach,2015,Dollars,1251.9675,502
+South Beach,2016,Dollars,1271.9201,502
+South Beach,2017,Dollars,1353.09336,502
+South Beach,2018,Dollars,1249.79265,502
+South Beach,2019,Dollars,1297.77471,502
+South Beach,2021,Dollars,1398,502
+Tottenville,2005,Dollars,1227.20535,503
+Tottenville,2006,Dollars,1190.66786,503
+Tottenville,2007,Dollars,1221.04188,503
+Tottenville,2008,Dollars,1186.40936,503
+Tottenville,2009,Dollars,1233.02311,503
+Tottenville,2010,Dollars,1274.23837,503
+Tottenville,2011,Dollars,1216.56235,503
+Tottenville,2012,Dollars,1240.55306,503
+Tottenville,2013,Dollars,1174.52468,503
+Tottenville,2014,Dollars,1222.09455,503
+Tottenville,2015,Dollars,1189.14476,503
+Tottenville,2016,Dollars,1235.29413,503
+Tottenville,2017,Dollars,1276.89341,503
+Tottenville,2018,Dollars,1292.5206,503
+Tottenville,2019,Dollars,1391.29856,503
+Tottenville,2021,Dollars,1249,503
